@@ -9,6 +9,7 @@ int main()
     b = 3;
 
     c = a + b;
+    d = a-b;
 
 
 
@@ -16,7 +17,7 @@ int main()
 
 
     cout << "The sum is: " << c << endl;
-
+    cout << "The  is: " << c << endl;
 
 
 }
