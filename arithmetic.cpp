@@ -17,7 +17,7 @@ int main()
 
 
     cout << "The sum is: " << c << endl;
-    cout << "The  is: " << c << endl;
+    cout << "The subtraction is: " << c << endl;
     cout << "The  product is: " << e << endl;
 
 }
